@@ -1,0 +1,1 @@
+This Jupyter notebook is a condensed version of [this article by Medium](https://towardsdatascience.com/understanding-pytorch-with-an-example-a-step-by-step-tutorial-81fc5f8c4e8e). It is a from-first-principles approach to `PyTorch` and highlights the basic elements of building a deep learning model.
